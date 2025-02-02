@@ -18,3 +18,5 @@ Result Summary: Display total points after completing the quiz.
 Frontend: React, Bootstrap, Axios
 
 Backend: Node.js, Express.js
+
+Main point: The source code is in master branch.
